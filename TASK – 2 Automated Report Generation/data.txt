@@ -1,0 +1,5 @@
+Name: Mandar Kulkarni
+Course: BCA
+Semester: 5
+CGPA: 8.1
+Attendance: 92.0
